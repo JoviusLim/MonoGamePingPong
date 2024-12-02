@@ -31,7 +31,6 @@ Key components include:
 - Player 1: W/S keys to move paddle up/down
 - Player 2/AI: Up/Down arrow keys to move paddle
 - ESC: Return to menu
-- Space: Select menu option
 
 ## What I Learned
 
