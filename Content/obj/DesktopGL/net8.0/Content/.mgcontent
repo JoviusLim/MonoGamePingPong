@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/C#/PingPongGame/Content/font.spritefont</File>
+    <File>D:/C#/PingPongGame/Content/Sounds/beepnegative.mp3</File>
+    <File>D:/C#/PingPongGame/Content/Sounds/jazzOST.mp3</File>
+    <File>D:/C#/PingPongGame/Content/Sprites/Ball.png</File>
+    <File>D:/C#/PingPongGame/Content/Sprites/Paddle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Sounds/backgroundmusic.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

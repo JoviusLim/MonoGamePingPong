@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"d:/C#/PingPongGame/Content/font.spritefont","d:/C#/PingPongGame/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.1408836
+"d:/C#/PingPongGame/Content/Sounds/beepnegative.mp3","d:/C#/PingPongGame/Content/bin/DesktopGL/Sounds/beepnegative.xnb","SongProcessor","SongContent",9955,130,0.1260957
+"d:/C#/PingPongGame/Content/Sounds/jazzOST.mp3","d:/C#/PingPongGame/Content/bin/DesktopGL/Sounds/backgroundmusic.xnb","SongProcessor","SongContent",6549409,133,2.0664637
+"d:/C#/PingPongGame/Content/Sprites/Ball.png","d:/C#/PingPongGame/Content/bin/DesktopGL/Sprites/Ball.xnb","TextureProcessor","Texture2DContent",98,985,0.0081638
+"d:/C#/PingPongGame/Content/Sprites/Paddle.png","d:/C#/PingPongGame/Content/bin/DesktopGL/Sprites/Paddle.xnb","TextureProcessor","Texture2DContent",117,6085,0.0022252
